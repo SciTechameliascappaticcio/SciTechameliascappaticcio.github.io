@@ -71,4 +71,17 @@ h1 {
 text-shadow: -4px 4px #b78900;
 
 }
-
+.header2{
+  color: white;
+  padding-left: 70px;
+  -webkit-text-stroke: 1px #ffdfef;
+  text-shadow: -2px 2px #a54274;
+}
+.circular--square { 
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+.container1 {
+  margin: auto;
+}
